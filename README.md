@@ -1,27 +1,14 @@
-# Firebaseapp
+Movie App - Anguar JS Application
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
+1. Open the project in Visual Studio Code
+2. Install bootstrap, popper.js, jquery, bootstrap-icons and firebase
+3. The Database used if  firebase.
+4. Change the config in app.module.ts file to your firebaseconfig
+5. Run the app with ng serve --open
+6. In the first you need to Sign Up get yourself registered and then Login to Home Page where you ca Rate and comment the movies
+7. Any file missing please contact me on whatsapp: 8169910080 Or Email: ar350524@gmail.com
+8. ![Sign Up and Login Page](https://user-images.githubusercontent.com/79685969/116863371-d7d7a980-ac23-11eb-946a-1e9814f81389.jpg)
+9. ![Home Page](https://user-images.githubusercontent.com/79685969/116863258-aced5580-ac23-11eb-8c7d-79b41149a99b.jpg)
+10. ![Comment Page](https://user-images.githubusercontent.com/79685969/116863261-aced5580-ac23-11eb-96e8-15345ad4851d.jpg)
+11. ![About Page](https://user-images.githubusercontent.com/79685969/116863263-ad85ec00-ac23-11eb-8b73-b2b43a55638c.jpg)
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
